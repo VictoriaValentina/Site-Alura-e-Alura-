@@ -12,7 +12,7 @@
 ## Overview
 
 ### Screenshot
-Página Inicial | Sobre mim |
+Página Inicial 
 
 ![](./SiteAlura.png)
 
