@@ -3,10 +3,10 @@
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [Meu processo](#my-process)
-  - [Construido com](#built-with)
-  - [O que aprendi](#what-i-learned)
-- [Autor](#author)
+- [Meu processo](#meu-processo)
+  - [Construido com](#construido-com)
+  - [O que aprendi](#o-que-eu-aprendi)
+- [Autor](#autor)
 
 
 ## Overview
@@ -14,11 +14,11 @@
 ### Screenshot
 Página Inicial | Sobre mim |
 
-![](./portfolio.gif)
+![](./SiteAlura.png)
 
 ### Links
 
-- Live Site URL: [Site Alura e Alura+](https://site-alura-e-alura-plus.vercel.app
+- Live Site URL: [Site Alura e Alura+](https://site-alura-e-alura-plus.vercel.app)
 
 ## Meu processo
 
@@ -29,15 +29,14 @@ Página Inicial | Sobre mim |
 - Figma
 
 ### O que eu aprendi
-|                 Alura               |                                     |                                             |
-|-------------------------------------|-------------------------------------|---------------------------------------------|
-| O editor de código VSCode           | Manipulando botões                  | Responsividade                              |
-| Documentação e HTML                 | Preparando o layout do projeto      | Responsividade e GitHub                     |
-| Layout e tags semânticas            | Criando ícones clicáveis            | Repositório do GitHub                       |
-| Estilizando o projeto com CSS       | Criando header e footer             |                                             |
-| Super estilizando o seu CSS         | Navegando entre páginas             |                                             |
-| Posicionando mais elementos         | Aplicando variáveis CSS             |                                             |
-| Estilos de texto e fontes           | Unidade de medidas                  |                                             |
+|                 HTML e CSS: praticando HTML/CSS                    |
+|--------------------------------------------------------------------|
+| Construa um site utilizando HTML e CSS                             | 
+| Identifique elementos e estilos através do Figma                   |
+| Aplique seus conhecimentos adquiridos até agora em um projeto real |
+| Crie um repositório para armazenar o código do projeto             |
+| Realize o deploy de um site através do Github Pages ou Vercel      |
+| Compartilhe o seu projeto com o mundo| Aplicando variáveis CSS     |
 
 
 ## Autor
